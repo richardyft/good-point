@@ -1,4 +1,4 @@
-point-for-good
+Good Point!
 ==============
 
 點點樂
